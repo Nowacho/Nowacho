@@ -14,6 +14,8 @@
 <div>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Java logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
@@ -31,24 +33,25 @@
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA logo" />
 </div>
 
-<!-- <h2>📚 Information</h2>
+<h2>📚 Information</h2>
 <ul>
-  <li>🌙 I’m currently learning Kotlin and JavaScript</li>
-  <li>🧭 How to reach me <strong>no.wacho</strong></li>
+  <li>🌙 I’m currently learning Kotlin and C#</li>
+  <li>🧭 How to reach me <strong>Wacho/NoWacho</strong></li>
 </ul>
 
+<h2>🧊 Other</h2>
 <p align="center">
     <a href="https://discord.com/users/1079614475717586945" target="_blank" rel="nofollow">
         <img src="https://lanyard-profile-readme.vercel.app/api/1079614475717586945?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence" align="center">
     </a>
-</p> -->
+</p>
 
-<h2>🎧 Spotify</h2>
+<!-- <h2>🎧 Spotify</h2>
 <p>Check out my spotify and find new songs that will inspire you!</p>
 <a href="https://open.spotify.com/user/erk34dd7wzest8ud7ajsogona">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=erk34dd7wzest8ud7ajsogona" alt="Spotify recently played" width="600"  />
 </a>
 <br/>
-<br/>
+<br/> -->
 
 [![](https://visitcount.itsvg.in/api?id=Nowacho&icon=5&color=8)](https://visitcount.itsvg.in)
