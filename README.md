@@ -1,102 +1,87 @@
 <div align="center">
-  
-  # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+NoWacho;Welcome+to+my+profile)](https://git.io/typing-svg)
-  
-  <p align="center">
-    <a href="https://discord.com/users/1079614475717586945">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
-    <a href="mailto:contact@nowacho.dev">
-      <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/NoWacho">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </p>
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=NoWacho&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%2020%20years%20old&descAlignY=51&descAlign=62)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+with+passion+%E2%9C%A8;From+Argentina+%F0%9F%87%A6%F0%9F%87%B7;Always+learning+%F0%9F%9A%80;Code+%7C+Create+%7C+Innovate+%F0%9F%92%9C)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
 <div align="center">
-  <h2>💫 About Me</h2>
-</div>
 
 ```javascript
-const nowacho = {
-  age: 19,
-  location: "Argentina",
-  interests: ["Programming", "Game Development", "Technology"],
-  currentlyLearning: ["Kotlin", "C#"],
-  contact: "Wacho/NoWacho"
-};
+const stack = {
+  languages: ['Java', 'TypeScript', 'JavaScript', 'Python'],
+  runtime: ['Node.js'],
+  framework: ['Astro'],
+  age: 20,
+  location: 'Argentina 🌟'
+}
 ```
 
-<p align="center">I'm a developer passionate about creating innovative solutions and exploring new technologies. 🚀</p>
-
----
-
-<div align="center">
-  <h2>⚡ Statistics</h2>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nowacho&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" height="170" alt="Nowacho GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nowacho&layout=compact&hide_border=true&title_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" height="170" alt="Nowacho top languages" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nowacho&theme=github_dark&hide_border=true&title_color=00BFFF&text_color=FFFFFF" alt="Activity summary" width="840"/>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
 </div>
 
 ---
 
 <div align="center">
-  <h2>🛠️ Languages and Tools</h2>
+
+## ⚡ Stats
+
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css,python" />  
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,maven,idea,git,vscode" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoWacho&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&card_width=400"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoWacho&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&card_width=400"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NoWacho&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=8B5CF6&dates=FFFFFF&sideLabels=8B5CF6"/>
+
+---
+
+<div align="center">
+
+## 🌊 Activity
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NoWacho&bg_color=0D1117&color=FFFFFF&line=8B5CF6&point=8B5CF6&area=true&area_color=1a1a2e&title_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity)
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
 </div>
 
 ---
 
 <div align="center">
-  <h2>🌊 Featured Projects</h2>
+
+<img src="https://komarev.com/ghpvc/?username=NoWacho&color=8B5CF6&style=for-the-badge&label=Profile+Views"/>
+
 </div>
 
 <div align="center">
-  <a href="https://github.com/Astrix-Services/EntityAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Astrix-Services&repo=EntityAI&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=0d1117&hide_border=true" />
-  </a>
-  <!-- <a href="https://github.com/Nowacho/OtakuCombo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nowacho&repo=OtakuCombo&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=0d1117&hide_border=true" />
-  </a> -->
-</div>
 
----
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=footer)
 
-<div align="center">
-  <h2>🌙 Discord Status</h2>
-</div>
-
-<p align="center">
-  <a href="https://discord.com/users/1079614475717586945" target="_blank" rel="nofollow">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1079614475717586945?&animated=true&borderRadius=20px&idleMessage=Probably%20coding%20something%20cool..." alt="Discord Presence" align="center">
-  </a>
-</p>
-
----
-
-<div align="center">
-  <h2>📊 Activity</h2>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nowacho&color=00BFFF&style=for-the-badge" alt="Profile views counter"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer" width="100%"/>
 </div>
