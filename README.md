@@ -46,15 +46,15 @@ Hey there! I'm **Vals**, a 20-year-old developer from Argentina 🇦🇷 passion
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tVals&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&card_width=400" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=v4lss&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&card_width=400" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tVals&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&card_width=400" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v4lss&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&card_width=400" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tVals&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=8B5CF6&dates=FFFFFF&sideLabels=8B5CF6" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=v4lss&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=8B5CF6&dates=FFFFFF&sideLabels=8B5CF6" alt="GitHub Streak"/>
 
 </div>
 
@@ -64,7 +64,7 @@ Hey there! I'm **Vals**, a 20-year-old developer from Argentina 🇦🇷 passion
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tVals&bg_color=0D1117&color=FFFFFF&line=8B5CF6&point=8B5CF6&area=true&area_color=1a1a2e&title_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=v4lss&bg_color=0D1117&color=FFFFFF&line=8B5CF6&point=8B5CF6&area=true&area_color=1a1a2e&title_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity)
 
 </div>
 
@@ -74,7 +74,7 @@ Hey there! I'm **Vals**, a 20-year-old developer from Argentina 🇦🇷 passion
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoWacho)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/v4lss)
 
 💜 *Feel free to explore my repositories and connect!*
 
