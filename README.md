@@ -1,92 +1,70 @@
 <div align="center">
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Vals&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%2020%20years%20old&descAlignY=56&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=230&section=header&text=Vals&fontSize=95&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=developer+·+argentina+·+20&descAlignY=60&descSize=15&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+with+passion+%E2%9C%A8;From+Argentina+%F0%9F%87%A6%F0%9F%87%B7;Always+learning+%F0%9F%9A%80;Code+%7C+Create+%7C+Innovate+%F0%9F%92%9C)](https://git.io/typing-svg)
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=666666&center=true&vCenter=true&multiline=false&width=440&lines=building+scalable+applications;always+learning+something+new;code+%7C+create+%7C+ship)](https://git.io/typing-svg)
 
-</div>
+<br/>
 
----
+Hey, I'm **Vals** — a 20-year-old developer from Argentina,
+building things and picking up new tech every day.
 
-## 👨‍💻 About Me
+<br/>
 
-Hey there! I'm **Vals**, a 20-year-old developer from Argentina 🇦🇷 passionate about creating innovative solutions and learning new technologies every day.
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1c1c1c&height=2&width=60%)
 
-<div align="center">
+<br/>
 
-🎯 **Current Focus:** Building scalable web applications  
-📍 **Location:** Argentina 🇦🇷  
-💜 **Motto:** Code with passion, learn with purpose
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=11&duration=1&pause=999999&color=444444&center=true&vCenter=true&width=200&lines=TECH+STACK)](https://git.io/typing-svg)
 
-</div>
+<br/>
 
----
+[![Skills](https://skillicons.dev/icons?i=java,kotlin,go,ts,js,py,bun,nodejs,react,astro,electron,css,mongodb,redis&theme=dark&perline=7)](https://skillicons.dev)
 
-## 🛠️ Tech Stack
+<br/>
 
-<div align="center">
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1c1c1c&height=2&width=60%)
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+<br/>
 
-</div>
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=11&duration=1&pause=999999&color=444444&center=true&vCenter=true&width=200&lines=GITHUB+STATS)](https://git.io/typing-svg)
 
----
+<br/>
 
-## 📊 GitHub Stats
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v4lss&theme=github_dark" width="96%"/>
 
-<div align="center">
+<br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=v4lss&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&card_width=400" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=v4lss&theme=github_dark" height="170"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=v4lss&theme=github_dark" height="170"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=v4lss&theme=github_dark" height="170"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v4lss&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&card_width=400" alt="Top Languages"/>
+<br/>
 
-</div>
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1c1c1c&height=2&width=60%)
 
-<div align="center">
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=v4lss&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=8B5CF6&dates=FFFFFF&sideLabels=8B5CF6" alt="GitHub Streak"/>
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=11&duration=1&pause=999999&color=444444&center=true&vCenter=true&width=200&lines=ACTIVITY)](https://git.io/typing-svg)
 
-</div>
+<br/>
 
----
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=v4lss&bg_color=0D0D0D&color=555555&line=888888&point=ffffff&area=true&area_color=1a1a1a&title_color=ffffff&hide_border=true&custom_title=contribution+activity)
 
-## 📈 Contribution Activity
+<br/>
 
-<div align="center">
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1c1c1c&height=2&width=60%)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=v4lss&bg_color=0D1117&color=FFFFFF&line=8B5CF6&point=8B5CF6&area=true&area_color=1a1a2e&title_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity)
+<br/>
 
-</div>
+[![GitHub](https://img.shields.io/badge/github-v4lss-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/v4lss)
+&nbsp;
+[![Discord](https://img.shields.io/badge/discord-v4.ls-111111?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/v4.ls)
 
----
+<br/><br/>
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/v4lss)
-
-💜 *Feel free to explore my repositories and connect!*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=NoWacho&color=8B5CF6&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=120&section=footer)
 
 </div>
